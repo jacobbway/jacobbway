@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @jacobbway
-- 👀 I’m interested in eventually building my own video game
-- 🌱 I’m currently learning java in school for my CS degree, but I like to code in CPP on the side
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I squatted 495lbs before.
+Hello there 👋
 
-<!---
-jacobbway/jacobbway is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am currently a student at UW Stout studying Computer Science
+  -Following the Secure Software Development and Cybersecurity Track
+  -Graduating after the fall semester of 2026!
+  -Currently Looking for internships for the summer of 2026 (Preferably Eau Claire Area, but will 100% move)
+
+I am currently teaching myself Open GL on the side as I would like to make some sort of Rouge Lite some day before I am old.
